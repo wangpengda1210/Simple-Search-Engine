@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    fun Main(args: String) {
+        println("Everyone loves cats")
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10490#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/10490#comment">JetBrains
+    Academy</a></html>
+  time: Mon, 16 Nov 2020 07:30:50 UTC
+record: -1
